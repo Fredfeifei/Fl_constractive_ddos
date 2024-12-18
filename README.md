@@ -19,5 +19,6 @@ Run the `data_preprocessing.py` script to clean the raw dataset and perform feat
 ```bash
 python data_preprocessing.py
 
-```bash
 python main_VaE.py
+
+python main_constractive.py
