@@ -1,0 +1,58 @@
+2024-12-18 01:26:37,763 - vae_training - INFO - 
+Starting training for attack type: syn
+2024-12-18 01:26:47,746 - vae_training - INFO - Loading previous model to continue training
+2024-12-18 01:26:48,228 - vae_training - INFO - Attack: syn, Epoch: 0, Batch: 0, Loss: 269937.9688
+2024-12-18 01:27:05,622 - vae_training - INFO - Attack: syn, Epoch: 0, Average Train Loss: 68.1016
+2024-12-18 01:27:08,255 - vae_training - INFO - Attack: syn, Epoch: 0, Train Loss: 68.1016, Average Val Loss: 2420.2230
+2024-12-18 01:27:08,259 - vae_training - INFO - Saved new best model with validation loss: 2420.22
+2024-12-18 01:27:08,283 - vae_training - INFO - Attack: syn, Epoch: 1, Batch: 0, Loss: 4660.2568
+2024-12-18 01:27:25,576 - vae_training - INFO - Attack: syn, Epoch: 1, Average Train Loss: 41.3422
+2024-12-18 01:27:25,599 - vae_training - INFO - Attack: syn, Epoch: 2, Batch: 0, Loss: 4061.5642
+2024-12-18 01:27:42,695 - vae_training - INFO - Attack: syn, Epoch: 2, Average Train Loss: 32.9429
+2024-12-18 01:27:42,721 - vae_training - INFO - Attack: syn, Epoch: 3, Batch: 0, Loss: 3472.0798
+2024-12-18 01:28:00,769 - vae_training - INFO - Attack: syn, Epoch: 3, Average Train Loss: 29.7194
+2024-12-18 01:28:03,711 - vae_training - INFO - Attack: syn, Epoch: 3, Train Loss: 29.7194, Average Val Loss: 2406.1618
+2024-12-18 01:28:03,715 - vae_training - INFO - Saved new best model with validation loss: 2406.16
+2024-12-18 01:28:03,738 - vae_training - INFO - Attack: syn, Epoch: 4, Batch: 0, Loss: 26637.8926
+2024-12-18 01:28:20,218 - vae_training - INFO - Attack: syn, Epoch: 4, Average Train Loss: 26.6871
+2024-12-18 01:28:20,243 - vae_training - INFO - Attack: syn, Epoch: 5, Batch: 0, Loss: 1908.3031
+2024-12-18 01:28:37,029 - vae_training - INFO - Attack: syn, Epoch: 5, Average Train Loss: 25.9822
+2024-12-18 01:28:37,052 - vae_training - INFO - Attack: syn, Epoch: 6, Batch: 0, Loss: 2961.3540
+2024-12-18 01:28:54,246 - vae_training - INFO - Attack: syn, Epoch: 6, Average Train Loss: 23.5274
+2024-12-18 01:28:56,940 - vae_training - INFO - Attack: syn, Epoch: 6, Train Loss: 23.5274, Average Val Loss: 2403.8703
+2024-12-18 01:28:56,944 - vae_training - INFO - Saved new best model with validation loss: 2403.87
+2024-12-18 01:28:56,975 - vae_training - INFO - Attack: syn, Epoch: 7, Batch: 0, Loss: 1772.8335
+2024-12-18 01:29:14,400 - vae_training - INFO - Attack: syn, Epoch: 7, Average Train Loss: 22.6005
+2024-12-18 01:29:14,424 - vae_training - INFO - Attack: syn, Epoch: 8, Batch: 0, Loss: 2117.4397
+2024-12-18 01:29:31,730 - vae_training - INFO - Attack: syn, Epoch: 8, Average Train Loss: 21.8228
+2024-12-18 01:29:31,755 - vae_training - INFO - Attack: syn, Epoch: 9, Batch: 0, Loss: 1459.9486
+2024-12-18 01:29:49,189 - vae_training - INFO - Attack: syn, Epoch: 9, Average Train Loss: 20.5834
+2024-12-18 01:29:51,837 - vae_training - INFO - Attack: syn, Epoch: 9, Train Loss: 20.5834, Average Val Loss: 2403.1771
+2024-12-18 01:29:51,840 - vae_training - INFO - Saved new best model with validation loss: 2403.18
+2024-12-18 01:29:51,865 - vae_training - INFO - Attack: syn, Epoch: 10, Batch: 0, Loss: 1142.2802
+2024-12-18 01:30:08,724 - vae_training - INFO - Attack: syn, Epoch: 10, Average Train Loss: 19.9477
+2024-12-18 01:30:08,749 - vae_training - INFO - Attack: syn, Epoch: 11, Batch: 0, Loss: 1518.7603
+2024-12-18 01:30:25,439 - vae_training - INFO - Attack: syn, Epoch: 11, Average Train Loss: 19.6840
+2024-12-18 01:30:25,465 - vae_training - INFO - Attack: syn, Epoch: 12, Batch: 0, Loss: 1263.6522
+2024-12-18 01:30:42,555 - vae_training - INFO - Attack: syn, Epoch: 12, Average Train Loss: 19.5486
+2024-12-18 01:30:45,229 - vae_training - INFO - Attack: syn, Epoch: 12, Train Loss: 19.5486, Average Val Loss: 2401.3246
+2024-12-18 01:30:45,233 - vae_training - INFO - Saved new best model with validation loss: 2401.32
+2024-12-18 01:30:45,259 - vae_training - INFO - Attack: syn, Epoch: 13, Batch: 0, Loss: 1384.1715
+2024-12-18 01:31:03,319 - vae_training - INFO - Attack: syn, Epoch: 13, Average Train Loss: 19.0079
+2024-12-18 01:31:03,344 - vae_training - INFO - Attack: syn, Epoch: 14, Batch: 0, Loss: 1113.5255
+2024-12-18 01:31:21,094 - vae_training - INFO - Attack: syn, Epoch: 14, Average Train Loss: 18.6220
+2024-12-18 01:31:21,121 - vae_training - INFO - Attack: syn, Epoch: 15, Batch: 0, Loss: 1425.1252
+2024-12-18 01:31:38,544 - vae_training - INFO - Attack: syn, Epoch: 15, Average Train Loss: 18.7864
+2024-12-18 01:31:41,250 - vae_training - INFO - Attack: syn, Epoch: 15, Train Loss: 18.7864, Average Val Loss: 2400.3085
+2024-12-18 01:31:41,254 - vae_training - INFO - Saved new best model with validation loss: 2400.31
+2024-12-18 01:31:41,279 - vae_training - INFO - Attack: syn, Epoch: 16, Batch: 0, Loss: 5414.1318
+2024-12-18 01:31:57,993 - vae_training - INFO - Attack: syn, Epoch: 16, Average Train Loss: 18.3089
+2024-12-18 01:31:58,017 - vae_training - INFO - Attack: syn, Epoch: 17, Batch: 0, Loss: 4890.5303
+2024-12-18 01:32:14,522 - vae_training - INFO - Attack: syn, Epoch: 17, Average Train Loss: 18.1009
+2024-12-18 01:32:14,548 - vae_training - INFO - Attack: syn, Epoch: 18, Batch: 0, Loss: 1622.7454
+2024-12-18 01:32:31,684 - vae_training - INFO - Attack: syn, Epoch: 18, Average Train Loss: 17.2537
+2024-12-18 01:32:34,360 - vae_training - INFO - Attack: syn, Epoch: 18, Train Loss: 17.2537, Average Val Loss: 2398.9897
+2024-12-18 01:32:34,364 - vae_training - INFO - Saved new best model with validation loss: 2398.99
+2024-12-18 01:32:34,390 - vae_training - INFO - Attack: syn, Epoch: 19, Batch: 0, Loss: 946.5989
+2024-12-18 01:32:51,935 - vae_training - INFO - Attack: syn, Epoch: 19, Average Train Loss: 17.0377
+2024-12-18 01:32:51,935 - vae_training - INFO - Training completed for all attack types!

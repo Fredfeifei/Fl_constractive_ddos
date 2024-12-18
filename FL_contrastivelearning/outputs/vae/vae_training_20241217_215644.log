@@ -1,0 +1,5 @@
+2024-12-17 21:56:44,044 - vae_training - INFO - 
+Starting training for attack type: drdos_dns
+2024-12-17 21:57:30,650 - vae_training - INFO - Attack: drdos_dns, Epoch: 0, Batch: 0, Loss: 9673.8926
+2024-12-17 21:59:46,786 - vae_training - INFO - Attack: drdos_dns, Epoch: 0, Batch: 4500, Loss: nan
+2024-12-17 22:01:55,909 - vae_training - INFO - Attack: drdos_dns, Epoch: 0, Average Train Loss: nan
