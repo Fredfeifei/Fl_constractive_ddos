@@ -19,6 +19,30 @@ Run the `data_preprocessing.py` script to clean the raw dataset and perform feat
 ```bash
 python data_preprocessing.py
 
+### 2️⃣  **Train the Encoder**
+
+```bash
 python main_VaE.py
 
+###3️⃣ **Fine-Tune the Model**
+
+```bash
 python main_constractive.py
+
+
+Raw Data (CICIDS-2019)
+       |
+Data Cleaning & Preprocessing
+       |
+     VAE Training
+(Encoder learns latent z(x))
+       |
+Calculate z(x)
+(Local Prototypes --> Global Prototype)
+       |
+  New Attack Data
+       |
+Compare z(x) with Global Prototype
+       |
+   Inference & Detection
+
