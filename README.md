@@ -31,7 +31,6 @@ python main_VaE.py
 python main_constractive.py
 
 
-
 Raw Data (CICIDS-2019)
        |
 Data Cleaning & Preprocessing
