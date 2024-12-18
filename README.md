@@ -5,30 +5,11 @@ This project focuses on detecting Distributed Denial-of-Service (DDoS) attacks u
 
 ---
 
-## 📂 **Dataset**
+## 📂 Dataset
 - **Source**: [CICIDS-2019 DDoS Dataset](https://www.unb.ca/cic/datasets/ddos-2019.html)
-- The raw data is preprocessed for cleaning and feature engineering to prepare it for training and evaluation.
+- The raw data is preprocessed to clean and engineer features, making it ready for training and evaluation.
 
 ---
-
-## 🛠️ **How to Use**
-
-### 1️⃣ **Preprocess the Data**
-Run the `data_preprocessing.py` script to clean the raw dataset and perform feature engineering.
-
-```bash
-python data_preprocessing.py
-
-### 2️⃣  **Train the Encoder**
-
-```bash
-python main_VaE.py
-
-###3️⃣ **Fine-Tune the Model**
-
-```bash
-python main_constractive.py
-
 
 Raw Data (CICIDS-2019)
        |
@@ -45,4 +26,13 @@ Calculate z(x)
 Compare z(x) with Global Prototype
        |
    Inference & Detection
+
+## 🛠️ How to Use
+
+### 1️⃣ Preprocess the Data
+Run the `data_preprocessing.py` script to clean the raw dataset and perform feature engineering.
+
+```bash
+python data_preprocessing.py
+
 
